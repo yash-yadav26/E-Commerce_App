@@ -1,16 +1,81 @@
-# React + Vite
+# 🛍️ ShopEase — E-Commerce Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **E-Commerce Frontend Application** built with **React.js, Redux Toolkit, React Router, and Tailwind CSS**.
 
-Currently, two official plugins are available:
+ShopEase provides a smooth shopping experience with product discovery, search, filtering, sorting, product details, and complete cart management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🏠 Home & Products
 
-## Expanding the ESLint configuration
+* Attractive and responsive home page
+* 20+ products
+* Product categories and ratings
+* Product search by name
+* Category-based filtering
+* Price sorting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📦 Product Details
+
+* Detailed product information
+* Product image gallery
+* Product ratings and categories
+* Add products directly to cart
+
+### 🛒 Shopping Cart
+
+* Add products to cart
+* Increase / decrease product quantity
+* Remove individual products
+* Clear entire cart
+* Automatic total price calculation
+* Automatic total item calculation
+
+### 📱 Responsive Design
+
+* Fully responsive layout
+* Optimized for desktop, tablet, and mobile
+* Clean and modern user interface
+
+### ⚡ State & Navigation
+
+* Centralized state management using Redux Toolkit
+* React Router for smooth page navigation
+* Reusable React components
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology            | Purpose                       |
+| --------------------- | ----------------------------- |
+| **React.js**          | Frontend UI development       |
+| **Vite**              | Development and build tool    |
+| **Redux Toolkit**     | State management              |
+| **React Redux**       | Connecting React with Redux   |
+| **React Router DOM**  | Client-side routing           |
+| **Tailwind CSS**      | Styling and responsive design |
+| **JavaScript (ES6+)** | Application logic             |
+
+---
+
+
+## 💡 Highlights
+
+ShopEase was built with a focus on:
+
+* Component-based architecture
+* Centralized state management
+* Reusable UI components
+* Client-side routing
+* Product search and filtering
+* Cart state management
+* Responsive and user-friendly design
+
+Building this project helped strengthen my understanding of **React.js, Redux Toolkit, state management, React Router, reusable components, and responsive UI development**.
+
+
+
+⭐ If you like this project, consider giving it a star!
